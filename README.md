@@ -29,7 +29,7 @@ Every module covers one concept using this same app, so you always have real, ru
 
 | Module | Topic | What You'll Learn |
 |--------|-------|-------------------|
-| [01](modules/01-pods-and-nodes) | **Pods & Nodes** | The atoms and factories of Kubernetes |
+| [01](modules/01-pods-and-nodes.md) | **Pods & Nodes** | The atoms and factories of Kubernetes |
 | [02](modules/02-deployments.md) | **Deployments** | Self-healing, scalable workloads |
 | [03](modules/03-services.md) | **Services** | Stable networking and load balancing |
 | [04](modules/04-configmaps-and-secrets.md) | **ConfigMaps & Secrets** | Separating config from code |
